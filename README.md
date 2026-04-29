@@ -16,7 +16,7 @@
 ## Как запустить
 1. Склонируйте или скачайте репозиторий.
 2. Убедитесь, что у вас установлен Python 3.
-3. Запустите файл `training_planner.py` через командную строку:
+3. Запустите файл `https://github.com/Has07-07/Planirovanie_trenirovki` через командную строку:
 
 ```bash
-python training_planner.py
+python https://github.com/Has07-07/Planirovanie_trenirovki
